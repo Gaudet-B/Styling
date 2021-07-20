@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    margin: 5px;
+}
+
+span {
+    color: aqua;
+    background-color: black;
+    margin: 5px;
+}
+
+h2 {
+    color: white;
+    background-color: rebeccapurple;
+    font-style: italic;
+    text-align: center;
+    margin: 5px;
+}
+
+h3 {
+    color: darkblue;
+    background-color: lightskyblue;
+    text-align: right;
+    margin: 5px;
+}
